@@ -28,7 +28,7 @@
 | Frontend    | React.js + Tailwind CSS  |
 | Backend     | Node.js + Express        |
 | Database    | MongoDB Atlas            |
-| AI Engine   | GPT-4o (OpenAI)          |
+| AI Engine   | Gemni ai        |
 | APIs Used   | LinkedIn API, X API (Twitter) |
 | Auth        | JWT + OAuth (planned)    |
 | Deployment  | Vercel (Frontend) + Render (Backend) |
